@@ -1,5 +1,3 @@
-[![banner](assets/banner.png)](http://introtodeeplearning.com)
-
 This repository contains all of the code and software labs for [MIT Introduction to Deep Learning](http://introtodeeplearning.com)! All lecture slides and videos are available on the program website.
 
 # Instructions
@@ -27,8 +25,6 @@ This package contains convienence functions that we use throughout the course an
 We do this for you in each of the labs, but the package is also open source under the same license so you can also use it outside the class.
 
 ## Lecture Videos
-
-[<img src="assets/video_play.png" width="500">](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=1)
 
 All lecture videos are available publicly online and linked above! Use and/or modification of lecture slides outside of MIT Introduction to Deep Learning must reference:
 
